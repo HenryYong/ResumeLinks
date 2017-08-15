@@ -5,6 +5,8 @@
 * [以内容展示为主的日历插件](https://github.com/HenryYong/Calendar "日历插件")
 
 ###工作项目
+* [DCloud](http://t.open.oa.com/s/dcloud#/ "DCloud")
+* [bk-magic](http://t.open.oa.com/s/magicbox-test/static/v3/components_vue/dist/index.html#/ "bk-magic")
 * [MagicBox](http://o.bkclouds.cc/static_api/v3/index.html "MagicBox")
 * [MagicBox(测试版)](http://open.oa.com/static_api/v3/index.html "MagicBox测试版")
 * [腾讯云大区管理](http://region-mgmt.test.qcloudapps.com/ "腾讯云")
