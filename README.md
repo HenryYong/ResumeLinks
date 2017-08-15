@@ -2,7 +2,6 @@
 
 ###个人项目
 * [个人博客](http:www.sephenry.me "个人博客")
-* [以内容展示为主的日历插件](https://github.com/HenryYong/Calendar "日历插件")
 
 ###工作项目
 * [DCloud](http://t.open.oa.com/s/dcloud#/ "DCloud")
